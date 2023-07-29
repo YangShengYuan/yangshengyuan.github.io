@@ -40,3 +40,6 @@ Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
 - Vedio Games
 - Electric Guitar
 - Science Fiction & Detective Novels
+
+---
+For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
