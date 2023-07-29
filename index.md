@@ -15,7 +15,7 @@ I received my B.E. as well as M.E. in Software Engineering from Nanjing Universi
 ---
 
 ## Publications
-*Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([pdf]https://dl.acm.org/doi/pdf/10.1145/3591242)
+*Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([pdf](https://dl.acm.org/doi/pdf/10.1145/3591242))
 
 Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
 
