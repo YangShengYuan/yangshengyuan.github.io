@@ -14,6 +14,8 @@ I am a first year CS Ph.D. Student at University of Wisconsin-Madison. My resear
 
 I received my B.E. as well as M.E. in Software Engineering from Nanjing University. I was a member of [PASCAL research group](https://pascal-lab.net/) at Nanjing University, where I worked with Professor [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) and did research in pointer analysis.
 
+For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
+
 ---
 
 ## Publications
@@ -61,9 +63,10 @@ different categories to apply corresponding abstraction methods.
 ## Hobbies
 - Vedio Games
 - Electric Guitar
-- Science Fiction & Detective Novels
+- Science Fiction & Detective Novels, my favourite book ->
+<img src="https://yangshengyuan.github.io/book.jpg" class="floatpic" width="200" height="480">
 
 <br>
 
 ---
-For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
+*这里或那里，世界很大，世界很好。把心打开，快乐为先。*
