@@ -62,7 +62,7 @@ different categories to apply corresponding abstraction methods.
 
 ## Hobbies
 
-<img src="https://yangshengyuan.github.io/book.jpg" class="floatpic" width="200" height="480">
+<img src="https://yangshengyuan.github.io/book.jpg" class="floatpic" width="130" height="300">
 
 - Vedio Games    
 - Electric Guitar
