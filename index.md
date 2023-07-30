@@ -62,13 +62,13 @@ different categories to apply corresponding abstraction methods.
 
 ## Hobbies
 
-<img src="https://yangshengyuan.github.io/book.jpg" class="floatpic" width="50" height="100">
+<img src="https://yangshengyuan.github.io/book.jpg" class="floatpic2" width="50" height="100">
 
 - Vedio Games    
 - Electric Guitar
 - Science Fiction & Detective Novels
   
-  my favourite book =>
+my favourite book =>
 
 <br>
 
