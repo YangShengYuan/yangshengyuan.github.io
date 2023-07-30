@@ -67,8 +67,9 @@ different categories to apply corresponding abstraction methods.
 - Vedio Games    
 - Electric Guitar
 - Science Fiction & Detective Novels
+  my favourite book =>
 
 <br>
 
 ---
-*这里或那里，世界很大，世界很好。把心打开，快乐为先。*
+*这里或那里，世界很大，世界很好。*
