@@ -62,13 +62,10 @@ different categories to apply corresponding abstraction methods.
 
 ## Hobbies
 
-<img src="https://yangshengyuan.github.io/book.jpg" class="floatpic2" width="120" height="160">
-
 - Vedio Games    
 - Electric Guitar
 - Science Fiction & Detective Novels
-  
-my favourite book =>
+- Some of my favourite authors: Ted Chiang, 小林 泰三, 西泽 保彦, 江户川 乱步, 京极 夏彦
 
 <br>
 
