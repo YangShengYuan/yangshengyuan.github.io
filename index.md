@@ -1,6 +1,7 @@
 ---
 layout: page
-classes: wide
+classes: 
+  - wide
 ---
 
 # About Me
