@@ -29,6 +29,24 @@ Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
 
 ---
 
+## Projects
+
+### Undergraduate Thesis
+- Hymers: a hybrid heap abstraction tool to accelerate pointer analysis by dividing abstract heaps into
+precision-critical and precision non-critical to apply corresponding abstraction methods.
+
+### Competition Projects
+- A Side-Scrolling Tactical RPG: a game developed by Unity, lead an 8-person team to win 1st place in *Game Development Contest by Thunder Fire Studio, NetEase & Nanjing University*.
+- Campus Vacant Classroom Wayfinding App: an Android App using WIFI detection to locate the user's position in buildings, and enabling in-building navigation for each vacant classroom, won 1st place in *hackathon by Academic Collaboration Dept., Microsoft Research Asia & Nanjing University*.
+
+### Selcted Course Projects
+- OCEANIA: a web system to visualize the call-graph of a given program uploaded by users. Led a 3-person team and impelemented 2 call-graph construction strategies (a fast code traversal solution and a precise pointer analysis solution). 
+- Online Cinema System: a 2KLOC web system that releases, schedules, and sells tickets for cinema.
+- Online Judge System: as the scrum manager, help a 4-person team to complete an agile software process in developing an online judge system in 2 sprints, using Zenhub, Kanban and burndown charts.
+- Test Impact Selction Tool: leveraged static analysis framework WALA to design and implement a tool that selects test cases impacted by a given change.
+<br>
+---
+
 ## News and Updates
 
 - **April 2023：**Our paper has been accepted by PLDI 2023 (as the co-first author).
@@ -42,6 +60,8 @@ Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
 - Vedio Games
 - Electric Guitar
 - Science Fiction & Detective Novels
+
+<br>
 
 ---
 For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
