@@ -62,10 +62,10 @@ different categories to apply corresponding abstraction methods.
 
 ## Hobbies
 
-- Vedio Games    
-- Electric Guitar
+- Vedio Games: Soulsborne, crpg, fire emblem, indie games
 - Science Fiction & Detective Novels
-- Some of my favourite authors: Ted Chiang, 小林 泰三, 西泽 保彦, 江户川 乱步, 京极 夏彦
+  some authors: Ted Chiang, 小林 泰三, 西泽 保彦, 江户川 乱步, 京极 夏彦
+- Electric Guitar
 
 <br>
 
