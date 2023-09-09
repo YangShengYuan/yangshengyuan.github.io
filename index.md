@@ -10,9 +10,7 @@ classes:
 
 Here is **Shengyuan Yang (杨声远)**.
 
-I am a first year CS Ph.D. Student at University of Wisconsin-Madison. My research interest lies in programming languages, especially in program analysis.
-
-I received my B.E. as well as M.E. in Software Engineering from Nanjing University. I was a member of [PASCAL research group](https://pascal-lab.net/) at Nanjing University, where I worked with Professor [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) and did research in pointer analysis.
+I received my B.E. as well as M.E. in Software Engineering from Nanjing University. I was a member of [PASCAL research group](https://pascal-lab.net/) at Nanjing University, where I worked with Professor [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) and did research in pointer analysis. My research interest lies in programming languages, especially in static program analysis.
 
 For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
 
@@ -54,7 +52,6 @@ different categories to apply corresponding abstraction methods.
 ## News and Updates
 
 - **April 2023：**Our paper has been accepted by PLDI 2023 (as the co-first author).
-- **March 2023：**Accepted the CS Ph.D. offer from UW-Madison.
 
 <br>
 
