@@ -17,11 +17,11 @@ For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyu
 ---
 
 ## Publications
-*Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([pdf](https://dl.acm.org/doi/pdf/10.1145/3591242))
+*Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([Paper](https://dl.acm.org/doi/abs/10.1145/3591242), [Artifact](https://zenodo.org/record/7808384))
 
 Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
 
-(the author with **#** contributed equally to this work) 
+**(the author with # contributed equally to this work)**
 
 *44nd ACM SIGPLAN Conference on Programming Language Design and Implementation* (**PLDI' 2023**)
 
