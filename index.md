@@ -10,7 +10,9 @@ classes:
 
 Here is **Shengyuan Yang (杨声远)**.
 
-I received my B.E. as well as M.E. in Software Engineering from Nanjing University. I was a member of [PASCAL research group](https://pascal-lab.net/) at Nanjing University, where I worked with Professor [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) and did research in static analysis. My research interest lies in programming languages, especially in static program analysis.
+I am a first year PhD student of Computer Science at University of Wisconsin-Madison. My research interest lies in static program analysis and other programming languages topics.
+
+I received my B.E. as well as M.E. in Software Engineering from Nanjing University. I was a member of [PASCAL research group](https://pascal-lab.net/) at Nanjing University, where I worked with Professor [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) and did research in static analysis.
 
 For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
 
