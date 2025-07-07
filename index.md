@@ -10,11 +10,11 @@ classes:
 
 Here is **Shengyuan Yang (杨声远)**.
 
-I am a first year PhD student of Computer Science at University of Wisconsin-Madison. My research interest lies in static program analysis and other programming languages topics.
+I am a second-year Ph.D. student in Computer Science at the University of Wisconsin–Madison, and a member of the [MadPL Group](https://madpl.cs.wisc.edu/). Along the way to the Ph.D. I recently earned an M.S., working under the supervision of Professor [Thomas Reps](https://pages.cs.wisc.edu/~reps/). I am currently preparing a journal manuscript based on my master’s thesis and prior work. Although my research focuses on static analysis, I have broad interests across programming-language theory and techniques.
 
-I received my B.E. as well as M.E. in Software Engineering from Nanjing University. I was a member of [PASCAL research group](https://pascal-lab.net/) at Nanjing University, where I worked with Professor [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) and did research in static analysis.
+Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engineering from Nanjing University. As a member of the [PASCAL Research Group](https://pascal-lab.net/), I collaborated with Professors [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) on foundational pointer analysis approaches for object-oriented languages.
 
-For more info, check my [Resume](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf)
+For more information, please see my [résumé](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf).
 
 ---
 
@@ -33,9 +33,12 @@ Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
 
 ## Projects
 
-### Undergraduate Thesis
+### Undergraduate Thesis at Nanjing University
 - **Hymers**: a hybrid heap abstraction tool to accelerate pointer analysis by dividing abstract heaps into
 different categories to apply corresponding abstraction methods.
+
+### Master Thesis at Wisconsin-Madison
+- **A Static Modeling of Java Streams**: a static modeling of Java streams in pointer analysis, modeling all kinds of stream pipeline operations to track stream input-output relations.
 
 ### Competition Projects
 - **A Side-Scrolling Tactical RPG**: a game developed by Unity, lead an 8-person team to win 1st place in *Game Development Contest by Thunder Fire Studio, NetEase & Nanjing University*.
@@ -53,6 +56,7 @@ different categories to apply corresponding abstraction methods.
 
 ## News and Updates
 
+- **May 2025：**Earned a master along my way towards the Ph.D. 
 - **April 2023：**Our paper has been accepted by PLDI 2023 (as the co-first author).
 
 <br>
@@ -61,7 +65,7 @@ different categories to apply corresponding abstraction methods.
 
 ## Hobbies
 
-- Vedio Games: Soulsborne, crpg, fire emblem, indie games
+- Vedio Games: Soulsborne, crpg, fire emblem, card games.
 - Science Fiction & Detective Novels: Ted Chiang, 小林 泰三, 西泽 保彦, 江户川 乱步, 京极 夏彦
 - I'm learning electric guitar
 
