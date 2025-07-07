@@ -63,6 +63,15 @@ different categories to apply corresponding abstraction methods.
 
 ---
 
+## Services
+
+- **Teaching Assistant：** Java programming (2023 Fall), Introduction to the Theory and Design of Programming Langugaes (2024 Spring, 2024 Fall, 2025 Spring)
+- **Artifact Evaluation Committee：** SAS'25. 
+
+<br>
+
+---
+
 ## Hobbies
 
 - Vedio Games: Soulsborne, crpg, fire emblem, card games.
