@@ -6,7 +6,7 @@ classes:
 
 # About Me
 
-<!-- <img src="https://yangshengyuan.github.io/shengyuanyang.jpg" class="floatpic" width="360" height="480"> -->
+<img src="https://yangshengyuan.github.io/shengyuanyang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Shengyuan Yang (杨声远)**.
 
