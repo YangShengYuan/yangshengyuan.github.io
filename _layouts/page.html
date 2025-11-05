@@ -39,7 +39,7 @@
   <div class="article-author-top">
     {% include author-bio.html %}
   </div>
-  <article itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="{{ page.classes | join: ' ' }}" itemscope itemtype="http://schema.org/CreativeWork">
   {% comment %}
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
