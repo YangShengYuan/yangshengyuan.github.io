@@ -21,23 +21,18 @@ For more information, please see my [résumé](https://yangshengyuan.github.io/f
 ## Publications
 
 *Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/TQA.pdf))
-
 **Shengyuan Yang**, Charles Yuan. (in submission)
 
 <br><br>
 
 *Cut-Shortcut Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://yangshengyuan.github.io/file/CSCS.pdf), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))
-
 **Shengyuan Yang**, Wenjie Ma, Thomas Reps, Tian Tan, Yue Li (in submission)
 
 <br><br>
 
 *Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([Paper](https://dl.acm.org/doi/abs/10.1145/3591242), [Artifact](https://zenodo.org/record/7808384))
-
 Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li
-
 **(the author with # contributed equally to this work)**
-
 *44nd ACM SIGPLAN Conference on Programming Language Design and Implementation* (**PLDI' 2023**)
 
 <br>
