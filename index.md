@@ -69,18 +69,10 @@ different categories to apply corresponding abstraction methods.
 
 ---
 
-## News and Updates
-
-- **May 2025：**Earned a master along my way towards the Ph.D. 
-- **April 2023：**Our paper has been accepted by PLDI 2023 (as the co-first author).
-
-<br>
-
----
-
 ## Services
 
-- **Teaching Assistant：** Java programming (2023 Fall), Introduction to the Theory and Design of Programming Langugaes (2024 Spring, 2024 Fall, 2025 Spring)
+- **Teaching Assistant：** 
+Software Analysis (2021 Fall), Java programming (2023 Fall), Introduction to the Theory and Design of Programming Langugaes (2024 Spring, 2024 Fall, 2025 Spring, 2025 Fall)
 - **Artifact Evaluation Committee：** SAS'25. 
 
 <br>
