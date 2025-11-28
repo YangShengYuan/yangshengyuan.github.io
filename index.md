@@ -21,7 +21,7 @@ For more information, please see my [résumé](https://yangshengyuan.github.io/f
 ## Publications
 
 *Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/QAT.pdf))
-**Shengyuan Yang**, Charles Yuan. (In submission)
+**Shengyuan Yang**, Charles Yuan. (to appear on PlanQC'26)
   
 *Cut-Shortcut Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://yangshengyuan.github.io/file/CSCS.pdf), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))
 **Shengyuan Yang**, Wenjie Ma, Thomas Reps, Tian Tan, Yue Li. (In submission)
