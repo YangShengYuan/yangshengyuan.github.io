@@ -14,7 +14,7 @@ I am a third-year Ph.D. student in Computer Science at the University of Wiscons
 
 Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engineering from Nanjing University. As a member of the [PASCAL Research Group](https://pascal-lab.net/), I collaborated with Professors [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) on foundational pointer analysis approaches for object-oriented languages.
 
-For more information, please see my [résumé](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf).
+<!-- For more information, please see my [résumé](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf). -->
 
 ---
 
