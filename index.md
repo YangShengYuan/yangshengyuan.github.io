@@ -60,7 +60,7 @@ different categories to apply corresponding abstraction methods.
 
 - **Teaching Assistant：** 
 Static Analysis (2021 Fall), Java programming (2023 Fall), Introduction to the Theory and Design of Programming Langugaes (2024 Spring, 2024 Fall, 2025 Spring, 2025 Fall)
-- **Artifact Evaluation Committee：** SAS'25. 
+- **Artifact Evaluation Committee：** SAS'25, PLDI'26.
 
 <br>
 
