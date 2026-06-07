@@ -6,7 +6,7 @@ classes:
 
 # About Me
 
-<img src="https://yangshengyuan.github.io/shengyuanyang.jpg" class="floatpic" width="360" height="480">
+<img src="https://yangshengyuan.github.io/shengyuanyang.jpg" class="floatpic" width="240" height="360">
 
 Here is **Shengyuan Yang (杨声远)**.
 
@@ -23,8 +23,8 @@ Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engin
 *Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/QAT.pdf))
 **Shengyuan Yang**, Charles Yuan. ([PlanQC'26](https://popl26.sigplan.org/details/planqc-2026-papers/4/Quantum-Assertion-Testing-Without-Mid-Circuit-Measurement-Strategies-and-Lower-Bound))
   
-*Cut-Shortcut Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://yangshengyuan.github.io/file/CSCS.pdf), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))
-**Shengyuan Yang**, Wenjie Ma, Thomas Reps, Tian Tan, Yue Li. (to be appear on TOPLAS)
+*Cut-Shortcut Whole-Program Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://dl.acm.org/doi/10.1145/3818615), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))
+**Shengyuan Yang**, Wenjie Ma, Thomas Reps, Tian Tan, Yue Li. (**TOPLAS' 2026**)
   
 *Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([Paper](https://dl.acm.org/doi/abs/10.1145/3591242), [Artifact](https://zenodo.org/record/7808384)) Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li. **(the author with # contributed equally to this work)**  
 *44nd ACM SIGPLAN Conference on Programming Language Design and Implementation* (**PLDI' 2023**)
