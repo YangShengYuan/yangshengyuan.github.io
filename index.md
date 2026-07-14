@@ -20,6 +20,9 @@ Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engin
 
 ## Publications
 
+*The Time-Space Complexity of Checking Multiple Assertions in Quantum Programs* ([Preprint](https://arxiv.org/pdf/2607.11665))
+**Shengyuan Yang** and Charles Yuan. 
+
 *Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/QAT.pdf))
 **Shengyuan Yang**, Charles Yuan. ([PlanQC'26](https://popl26.sigplan.org/details/planqc-2026-papers/4/Quantum-Assertion-Testing-Without-Mid-Circuit-Measurement-Strategies-and-Lower-Bound))
   
