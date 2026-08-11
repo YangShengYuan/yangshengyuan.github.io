@@ -6,13 +6,15 @@ classes:
 
 # About Me
 
-<img src="https://yangshengyuan.github.io/shengyuanyang.jpg" class="floatpic" width="240" height="360">
+<img src="https://yangshengyuan.github.io/shengyuanyang.jpg" class="floatpic" width="120" height="240">
 
 Here is **Shengyuan Yang (杨声远)**.
 
-I am a third-year Ph.D. student in Computer Science at the University of Wisconsin–Madison, and a member of the [MadPL Group](https://madpl.cs.wisc.edu/). Along the way to the Ph.D. I recently earned an M.S., working under the supervision of Professor [Thomas Reps](https://pages.cs.wisc.edu/~reps/). This year, I start to expore research in programming for quantum computers, under the supervision of [Charles Yuan](https://pages.cs.wisc.edu/~charlesyuan/). 
+I am a fourth-year Ph.D. student in Computer Science at the University of Wisconsin–Madison and a member of the [MadPL Group](https://madpl.cs.wisc.edu/). 
+I study programming language principles and tools for quantum computers, under the supervision of [Charles Yuan](https://pages.cs.wisc.edu/~charlesyuan/). 
 
-Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engineering from Nanjing University. As a member of the [PASCAL Research Group](https://pascal-lab.net/), I collaborated with Professors [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) on foundational pointer analysis approaches for object-oriented languages.
+Along the way, I earned an M.S. and worked with [Thomas Reps](https://pages.cs.wisc.edu/~reps/) on pointer analysis algorithms and their CFL-reachability formulations.
+Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engineering from Nanjing University. As a member of the [PASCAL Research Group](https://pascal-lab.net/), I collaborated with [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) on pointer analysis algorithms for object-oriented languages.
 
 <!-- For more information, please see my [résumé](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf). -->
 
