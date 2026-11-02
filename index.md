@@ -11,10 +11,14 @@ classes:
 Here is **Shengyuan Yang (杨声远)**.
 
 I am a fourth-year Ph.D. student in Computer Science at the University of Wisconsin–Madison and a member of the [MadPL Group](https://madpl.cs.wisc.edu/). 
-I study programming language principles and tools for quantum computers, under the supervision of [Charles Yuan](https://pages.cs.wisc.edu/~charlesyuan/). 
 
-Along the way, I earned an M.S. and worked with [Thomas Reps](https://pages.cs.wisc.edu/~reps/) on pointer analysis algorithms and their CFL-reachability formulations.
-Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engineering from Nanjing University. As a member of the [PASCAL Research Group](https://pascal-lab.net/), I collaborated with [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) on pointer analysis algorithms for object-oriented languages.
+I am broadly interested in the principles and techniques of programming languages, and in using them to reason about computing systems and improve their security and efficiency.
+
+My research includes programming language principles and tools for quantum computing, under the supervision of [Charles Yuan](https://pages.cs.wisc.edu/~charlesyuan/). My work explores [time-space trade-offs for checking quantum assertions](https://arxiv.org/abs/2607.11665). My recent work also includes MBUndo, a sound, automatic, and efficient compiler pass for measurement-based uncomputation that reduces the cost of uncomputation in quantum circuits.
+
+I am also interested in programming language support for LLM-based AI systems. In [Imprompt](https://arxiv.org/abs/2607.22683), we designed a structured prompt programming language that separates task descriptions from execution details, together with formal compilation strategies.
+
+My earlier research focused on pointer analysis algorithms and their foundations. This work includes [Cut-Shortcut](https://dl.acm.org/doi/10.1145/3591242), a fast and precise approach to pointer analysis for object-oriented languages, and [Cut-Shortcut-S](https://yangshengyuan.github.io/file/CSCS.pdf), which models Java Streams and their interaction with lambda expressions for precise static analysis. At Wisconsin, I earned an M.S. and worked with [Thomas Reps](https://pages.cs.wisc.edu/~reps/) on pointer analysis algorithms. Before coming to Wisconsin, I received both a B.E. and an M.E. in Software Engineering from Nanjing University, where I worked with [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) as a member of the [PASCAL Research Group](https://pascal-lab.net/).
 
 <!-- For more information, please see my [résumé](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf). -->
 
@@ -27,6 +31,9 @@ Before coming to Wisconsin, I obtained both a B.E. and an M.E. in Software Engin
 
 *Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/QAT.pdf))
 **Shengyuan Yang**, Charles Yuan. ([PlanQC'26](https://popl26.sigplan.org/details/planqc-2026-papers/4/Quantum-Assertion-Testing-Without-Mid-Circuit-Measurement-Strategies-and-Lower-Bound))
+
+*Imprompt: A Language Framework for Prompt Programming* ([Preprint](https://arxiv.org/abs/2607.22683))
+Chentian Wu, **Shengyuan Yang**, Adithya Murali.
   
 *Cut-Shortcut Whole-Program Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://dl.acm.org/doi/10.1145/3818615), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))
 **Shengyuan Yang**, Wenjie Ma, Thomas Reps, Tian Tan, Yue Li. (**TOPLAS' 2026**)
