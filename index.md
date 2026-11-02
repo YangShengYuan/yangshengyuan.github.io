@@ -45,6 +45,17 @@ Chentian Wu, **Shengyuan Yang**, Adithya Murali.
 
 ---
 
+## Services
+
+- **Artifact Evaluation Committee：** SAS'25, PLDI'26.
+- **Journal Reviewer：** TOSEM.
+- **Teaching Assistant：**
+Static Analysis (2021 Fall), Java programming (2023 Fall), Introduction to the Theory and Design of Programming Langugaes (2024 Spring, 2024 Fall, 2025 Spring, 2025 Fall)
+
+<br>
+
+---
+
 ## Projects
 
 ### Undergraduate Thesis at Nanjing University
@@ -63,16 +74,6 @@ different categories to apply corresponding abstraction methods.
 - **Online Cinema System**: a 2KLOC web system that releases, schedules, and sells tickets for cinema.
 - **Online Judge System**: as the scrum manager, help a 4-person team to complete an agile software process in developing an online judge system in 2 sprints, using Zenhub, Kanban and burndown charts.
 - **Test Impact Selction Tool**: leveraged static analysis framework WALA to design and implement a tool that selects test cases impacted by a given change.
-
-<br>
-
----
-
-## Services
-
-- **Teaching Assistant：** 
-Static Analysis (2021 Fall), Java programming (2023 Fall), Introduction to the Theory and Design of Programming Langugaes (2024 Spring, 2024 Fall, 2025 Spring, 2025 Fall)
-- **Artifact Evaluation Committee：** SAS'25, PLDI'26.
 
 <br>
 
