@@ -14,7 +14,7 @@ I am a fourth-year Ph.D. student in Computer Science at the University of Wiscon
 
 I am broadly interested in the principles and techniques of programming languages, and in using them to reason about computing systems and improve their security and efficiency.
 
-My research includes programming language principles and tools for quantum computing, under the supervision of [Charles Yuan](https://pages.cs.wisc.edu/~charlesyuan/). My work explores [time-space trade-offs for checking quantum assertions](https://arxiv.org/abs/2607.11665). My recent work also includes MBUndo, a sound, automatic, and efficient compiler pass for measurement-based uncomputation that reduces the cost of uncomputation in quantum circuits.
+My research includes programming language principles and tools for quantum computing, under the supervision of [Charles Yuan](https://pages.cs.wisc.edu/~charlesyuan/). My work explores [time-space trade-offs for checking quantum assertions](https://arxiv.org/abs/2607.11665). My recent work also includes [MBUndo, a sound, automatic, and efficient compiler pass for measurement-based uncomputation](https://arxiv.org/abs/2611.02345) that reduces the cost of uncomputation in quantum circuits.
 
 I am also interested in programming language support for LLM-based AI systems. In [Imprompt](https://arxiv.org/abs/2607.22683), we designed a structured prompt programming language that separates task descriptions from execution details, together with formal compilation strategies.
 
@@ -26,19 +26,23 @@ My earlier research focused on pointer analysis algorithms and their foundations
 
 ## Publications
 
-*The Time-Space Complexity of Checking Multiple Assertions in Quantum Programs* ([Preprint](https://arxiv.org/abs/2607.11665))
+*The Time-Space Complexity of Checking Multiple Assertions in Quantum Programs* ([Preprint](https://arxiv.org/abs/2607.11665))<br>
 **Shengyuan Yang** and Charles Yuan. 
 
-*Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/QAT.pdf))
+*MBUndo: Sound, Automatic, and Efficient Measurement-Based Uncomputation for Quantum Circuits* ([Preprint](https://arxiv.org/abs/2611.02345))<br>
+**Shengyuan Yang** and Charles Yuan. 
+
+*Quantum Assertion Testing Without Mid-Circuit Measurement: Strategies and Lower Bounds* ([Paper](https://yangshengyuan.github.io/file/QAT.pdf))<br>
 **Shengyuan Yang**, Charles Yuan. ([PlanQC'26](https://popl26.sigplan.org/details/planqc-2026-papers/4/Quantum-Assertion-Testing-Without-Mid-Circuit-Measurement-Strategies-and-Lower-Bound))
 
-*Imprompt: A Language Framework for Prompt Programming* ([Preprint](https://arxiv.org/abs/2607.22683))
+*Imprompt: A Language Framework for Prompt Programming* ([Preprint](https://arxiv.org/abs/2607.22683))<br>
 Chentian Wu, **Shengyuan Yang**, Adithya Murali.
   
-*Cut-Shortcut Whole-Program Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://dl.acm.org/doi/10.1145/3818615), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))
+*Cut-Shortcut Whole-Program Pointer Analysis: Re-imagining Context-Sensitivity without Contexts* ([Paper](https://dl.acm.org/doi/10.1145/3818615), [Artifact](https://github.com/YangShengYuan/cut-shortcut-artifact))<br>
 **Shengyuan Yang**, Wenjie Ma, Thomas Reps, Tian Tan, Yue Li. (**TOPLAS' 2026**)
   
-*Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([Paper](https://dl.acm.org/doi/abs/10.1145/3591242), [Artifact](https://zenodo.org/record/7808384)) Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li. **(the author with # contributed equally to this work)**  
+*Context Sensitivity without Contexts, A Cut-Shortcut Approach to Fast and Precise Pointer Analysis* ([Paper](https://dl.acm.org/doi/abs/10.1145/3591242), [Artifact](https://zenodo.org/record/7808384))<br>
+Wenjie Ma#, **Shengyuan Yang#**, Tian Tan, Xiaoxing Ma, Chang Xu, Yue Li. **(the author with # contributed equally to this work)**  
 *44nd ACM SIGPLAN Conference on Programming Language Design and Implementation* (**PLDI' 2023**)
 
 <br>
