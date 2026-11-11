@@ -1,0 +1,185 @@
+.folio {
+  --paper: #f8f5ee;
+  --ink: #29251e;
+  --muted: #635d53;
+  --accent: #873f33;
+  --rule: #d7cdc0;
+  --serif: "Spectral", Georgia, serif;
+  --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  --han: "Songti SC", "Noto Serif SC", "SimSun", serif;
+
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  color-scheme: light;
+  font: 16px/1.6 var(--serif);
+}
+
+.folio *, .folio *::before, .folio *::after { box-sizing: border-box; }
+.folio :is(h1, h2, h3, p, ul, figure, blockquote, dl, dd) { margin: 0; }
+.folio :is(a, h1, h2, h3, p, dd, li) { overflow-wrap: break-word; }
+.folio [id] { scroll-margin-top: 16px; }
+.folio strong { font-weight: 650; }
+
+.folio a {
+  color: var(--accent);
+  text-decoration-thickness: .065em;
+  text-underline-offset: .19em;
+}
+.folio a:hover { text-decoration-thickness: .13em; }
+.folio a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+
+.folio-frame {
+  width: min(1120px, 88%);
+  margin-inline: auto;
+}
+
+.folio-label {
+  font: 500 11px/1.45 var(--mono);
+  letter-spacing: .105em;
+  text-transform: uppercase;
+}
+
+.folio-masthead {
+  border-top: 3px solid var(--accent);
+  border-bottom: 1px solid var(--rule);
+}
+.folio-mast-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px 25px;
+  min-height: 60px;
+  padding-block: 13px;
+}
+.folio-affiliation { color: var(--accent); }
+
+.folio-nav, .folio-contact, .folio-paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 9px 23px;
+}
+.folio-nav a, .folio-contact a { color: inherit; text-decoration: none; }
+.folio-nav a:hover, .folio-contact a:hover { text-decoration: underline; }
+
+.folio-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(112px, 19vw, 195px);
+  gap: clamp(20px, 5.8vw, 79px);
+  align-items: center;
+  padding-block: clamp(35px, 6vw, 78px);
+}
+.folio .folio-name {
+  font: 600 clamp(44px, 7.3vw, 96px)/1.02 "Cormorant Garamond", Garamond, Georgia, serif;
+  letter-spacing: -.022em;
+}
+.folio .folio-name-zh {
+  margin-top: 11px;
+  color: var(--accent);
+  font: 500 clamp(18px, 2.55vw, 29px)/1.6 var(--han);
+  letter-spacing: .1em;
+}
+.folio .folio-role {
+  margin-top: 11px;
+  color: var(--muted);
+  font-size: clamp(16px, 2.05vw, 24px);
+  font-style: italic;
+  line-height: 1.4;
+}
+.folio-contact { margin-top: 24px; color: var(--accent); }
+.folio-contact span { font: .94em system-ui, sans-serif; }
+
+.folio-photo {
+  padding: 7px;
+  border: 1px solid var(--rule);
+  background: #f1eae0;
+}
+.folio-portrait {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 4 / 5;
+  background: #b2a18d;
+  filter: saturate(.43) sepia(.13);
+}
+.folio-portrait img {
+  position: absolute;
+  left: 50%;
+  top: 44%;
+  width: 112%;
+  height: auto;
+  transform: translate(-50%, -44%);
+}
+
+.folio-section {
+  display: grid;
+  grid-template-columns: clamp(138px, 19vw, 214px) minmax(0, 1fr);
+  gap: 18px 30px;
+  padding-block: 25px 30px;
+  border-top: 1px solid var(--rule);
+}
+.folio-section > h2 {
+  padding-top: 6px;
+  color: var(--accent);
+  font: 600 12px/1.6 var(--mono);
+  letter-spacing: .115em;
+  text-transform: uppercase;
+}
+
+.folio-bio { display: grid; gap: 15px; max-width: 72ch; }
+.folio-bio > p:first-child { font-size: clamp(17px, 2vw, 21px); line-height: 1.52; }
+
+.folio-paper-list { padding: 0; list-style: none; }
+.folio-paper { padding: 14px 0; border-top: 1px solid var(--rule); }
+.folio-paper:first-child { padding-top: 0; border-top: 0; }
+.folio-venue { display: inline-block; margin-bottom: 5px; color: var(--accent); }
+.folio-paper-title { font: 500 19px/1.31 var(--serif); }
+.folio-authors {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.55;
+}
+.folio-authors strong { color: var(--ink); }
+.folio-paper-links { gap: 5px 13px; margin-top: 5px; font-size: 13px; }
+
+.folio-services { display: grid; gap: 13px; }
+.folio-services dt { font-weight: 650; }
+.folio-services dd { color: var(--muted); }
+.folio-projects { display: grid; gap: 21px; }
+.folio .folio-projects h3 { margin-bottom: 4px; font-size: 18px; }
+.folio-projects ul, .folio-hobbies ul { padding-inline-start: 1.2em; }
+.folio-projects li + li, .folio-hobbies li + li { margin-top: 5px; }
+
+.folio-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px 24px;
+  margin-top: 44px;
+  padding-block: 23px 34px;
+  border-top: 1px solid var(--rule);
+}
+.folio-footer blockquote { color: var(--muted); font-family: var(--han); }
+.folio-footer a { font-size: 13px; }
+
+@media (max-width: 720px) {
+  .folio-frame { width: 90%; }
+  .folio-nav { gap: 7px 15px; }
+  .folio-section { grid-template-columns: minmax(0, 1fr); gap: 7px; }
+  .folio-section > h2 { padding-top: 0; }
+}
+
+@media (max-width: 530px) {
+  .folio-nav, .folio-contact { row-gap: 9px; }
+  .folio-nav a, .folio-contact a { padding-block: 3px; }
+  .folio-nav { column-gap: 11px; font-size: 10.5px; }
+  .folio-hero { grid-template-columns: minmax(0, 1fr) 75px; gap: 16px; }
+  .folio .folio-photo { align-self: start; padding: 4px; margin-top: 6px; }
+  .folio .folio-name { font-size: clamp(30px, 8vw, 43px); }
+  .folio .folio-role { margin-top: 6px; }
+  .folio-contact { margin-top: 13px; }
+  .folio-section { padding-block: 17px 21px; }
+}

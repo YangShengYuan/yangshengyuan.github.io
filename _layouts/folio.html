@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title | escape }}</title>
+  <meta name="description" content="{{ site.title | escape }}, {{ page.position | escape }} at {{ page.affiliation | escape }}.">
+  {% if site.url %}<link rel="canonical" href="{{ page.url | absolute_url }}">{% endif %}
+  <link rel="icon" href="{{ '/fav.png' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=IBM+Plex+Mono:wght@400;500;600&amp;family=Spectral:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/folio.css' | relative_url }}">
+  {% if jekyll.environment == 'production' %}
+  <script async src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { window.dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-T5N5JY1E21');
+  </script>
+  {% endif %}
+</head>
+<body class="folio" id="top">
+  <header class="folio-masthead">
+    <div class="folio-frame folio-mast-row">
+      <span class="folio-affiliation folio-label">{{ page.affiliation | escape }}</span>
+      <nav class="folio-nav folio-label" aria-label="Sections">
+        <a href="#about-me">About</a>
+        <a href="#publications">Publications</a>
+        <a href="#services">Services</a>
+        <a href="#projects">Projects</a>
+        <a href="#hobbies">Hobbies</a>
+      </nav>
+    </div>
+  </header>
+  <main class="folio-frame">
+    <header class="folio-hero">
+      <div>
+        <h1 class="folio-name">{{ site.title | escape }}</h1>
+        <p class="folio-name-zh" lang="zh-Hans">{{ page.name_zh | escape }}</p>
+        <p class="folio-role">{{ page.position | escape }}</p>
+        <div class="folio-contact folio-label">
+          {% if site.owner.email %}
+          <a href="mailto:{{ site.owner.email | escape }}">Email <span aria-hidden="true">↗</span></a>
+          {% endif %}
+          {% if site.owner.github %}
+          <a href="https://github.com/{{ site.owner.github | escape }}">GitHub <span aria-hidden="true">↗</span></a>
+          {% endif %}
+        </div>
+      </div>
+      <figure class="folio-photo">
+        <div class="folio-portrait">
+          <img src="{{ page.portrait | relative_url }}" width="480" height="719" alt="Portrait of {{ site.title | escape }}">
+        </div>
+      </figure>
+    </header>
+    {{ content }}
+  </main>
+  <footer class="folio-frame folio-footer">
+    <blockquote lang="zh-Hans">{{ page.footer_quote | escape }}</blockquote>
+    <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
+  </footer>
+</body>
+</html>
