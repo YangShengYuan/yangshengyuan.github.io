@@ -60,13 +60,13 @@
 
 .folio-hero {
   display: grid;
-  grid-template-columns: var(--section-label-width) minmax(0, 1fr) 128px;
+  grid-template-columns: var(--section-label-width) minmax(0, 1fr) clamp(128px, 13vw, 160px);
   gap: var(--section-column-gap);
   align-items: start;
-  padding-block: 39px 29px;
+  padding-block: 46px 34px;
 }
 .folio .folio-name {
-  font: 600 clamp(32px, 6.2vw, 53px)/1.03 "Cormorant Garamond", Garamond, Georgia, serif;
+  font: 600 clamp(32px, 6.2vw, 58px)/1.03 "Cormorant Garamond", Garamond, Georgia, serif;
   letter-spacing: -.02em;
 }
 .folio .folio-name-zh {
@@ -187,9 +187,9 @@
 @media (max-width: 720px) {
   .folio-frame { width: 90%; }
   .folio-hero {
-    grid-template-columns: minmax(0, 1fr) clamp(80px, 22vw, 128px);
+    grid-template-columns: minmax(0, 1fr) clamp(90px, 25vw, 160px);
     gap: 18px 16px;
-    padding-block: 16px 26px;
+    padding-block: 18px 30px;
   }
   .folio-nav {
     display: flex;
