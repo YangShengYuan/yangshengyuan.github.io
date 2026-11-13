@@ -103,7 +103,7 @@ My research includes programming language principles and tools for quantum compu
 
 My earlier research focused on pointer analysis algorithms and their foundations. This work includes [Cut-Shortcut](https://dl.acm.org/doi/10.1145/3591242), a fast and precise approach to pointer analysis for object-oriented languages, and [Cut-Shortcut-S](https://yangshengyuan.github.io/file/CSCS.pdf), which models Java Streams and their interaction with lambda expressions for precise static analysis. At Wisconsin, I earned an M.S. and worked with [Thomas Reps](https://pages.cs.wisc.edu/~reps/) on pointer analysis algorithms. Before coming to Wisconsin, I received both a B.E. and an M.E. in Software Engineering from Nanjing University, where I worked with [Yue Li](https://yuelee.bitbucket.io/) and [Tian Tan](https://silverbullettt.bitbucket.io/) as a member of the [PASCAL Research Group](https://pascal-lab.net/).
 
-I am also interested in programming language support for LLM-based AI systems. In [Imprompt](https://arxiv.org/abs/2607.22683), we designed a structured prompt programming language that separates task descriptions from execution details, together with formal compilation strategies.
+I am also interested in programming language support for LLM-based AI systems. In [Imprompt](https://arxiv.org/abs/2607.22683), we designed a structured prompt programming language that separates task descriptions from execution details.
 
 <!-- For more information, please see my [résumé](https://yangshengyuan.github.io/file/CV-shengyuanyang.pdf). -->
 
