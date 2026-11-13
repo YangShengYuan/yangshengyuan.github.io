@@ -23,39 +23,35 @@
   {% endif %}
 </head>
 <body class="folio" id="top">
-  <header class="folio-masthead">
-    <div class="folio-frame folio-mast-row">
-      <span class="folio-affiliation folio-label">{{ page.affiliation | escape }}</span>
-      <nav class="folio-nav folio-label" aria-label="Sections">
-        <a href="#about-me">About</a>
-        <a href="#publications">Publications</a>
-        <a href="#services">Services</a>
-        <a href="#projects">Projects</a>
-        <a href="#hobbies">Hobbies</a>
-      </nav>
+  <header class="folio-frame folio-hero">
+    <nav class="folio-nav" aria-label="Sections">
+      <a href="#about-me">About</a>
+      <a href="#publications">Publications</a>
+      <a href="#services">Services</a>
+      <a href="#projects">Projects</a>
+      <a href="#hobbies">Hobbies</a>
+    </nav>
+    <div>
+      <h1 class="folio-name">{{ site.title | escape }}</h1>
+      <p class="folio-name-zh" lang="zh-Hans">{{ page.name_zh | escape }}</p>
+      <p class="folio-role">{{ page.position | escape }}</p>
+      <p class="folio-affiliation">{{ page.affiliation | escape }}</p>
+      <div class="folio-contact">
+        {% if site.owner.email %}
+        <a href="mailto:{{ site.owner.email | escape }}">Email</a>
+        {% endif %}
+        {% if site.owner.github %}
+        <a href="https://github.com/{{ site.owner.github | escape }}">GitHub</a>
+        {% endif %}
+      </div>
     </div>
+    <figure class="folio-photo">
+      <div class="folio-portrait">
+        <img src="{{ page.portrait | relative_url }}" width="480" height="719" alt="Portrait of {{ site.title | escape }}">
+      </div>
+    </figure>
   </header>
   <main class="folio-frame">
-    <header class="folio-hero">
-      <div>
-        <h1 class="folio-name">{{ site.title | escape }}</h1>
-        <p class="folio-name-zh" lang="zh-Hans">{{ page.name_zh | escape }}</p>
-        <p class="folio-role">{{ page.position | escape }}</p>
-        <div class="folio-contact folio-label">
-          {% if site.owner.email %}
-          <a href="mailto:{{ site.owner.email | escape }}">Email <span aria-hidden="true">↗</span></a>
-          {% endif %}
-          {% if site.owner.github %}
-          <a href="https://github.com/{{ site.owner.github | escape }}">GitHub <span aria-hidden="true">↗</span></a>
-          {% endif %}
-        </div>
-      </div>
-      <figure class="folio-photo">
-        <div class="folio-portrait">
-          <img src="{{ page.portrait | relative_url }}" width="480" height="719" alt="Portrait of {{ site.title | escape }}">
-        </div>
-      </figure>
-    </header>
     {{ content }}
   </main>
   <footer class="folio-frame folio-footer">
