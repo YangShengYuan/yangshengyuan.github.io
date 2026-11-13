@@ -143,6 +143,24 @@
 }
 .folio-authors strong { color: var(--ink); }
 .folio-paper-links { gap: 5px 13px; margin-top: 5px; font-size: 13px; }
+.folio-paper-highlight { margin: 15px 0 5px; }
+.folio-paper-highlight p {
+  max-width: 72ch;
+  padding-inline-start: 13px;
+  border-inline-start: 2px solid var(--rule);
+}
+#mbundo .folio-paper-highlight p { max-width: none; }
+#assertion-checking .folio-paper-highlight p { max-width: 90ch; }
+#cut-shortcut-s .folio-paper-highlight p { max-width: 98ch; }
+#cut-shortcut .folio-paper-highlight p { max-width: 110ch; }
+.folio-paper-figure {
+  display: block;
+  margin-top: 13px;
+  padding: 7px;
+  border: 1px solid var(--rule);
+  background: white;
+}
+.folio-paper-figure img { display: block; width: 100%; height: auto; }
 
 .folio-services { display: grid; gap: 13px; }
 .folio-services dt { font-weight: 650; }
@@ -164,6 +182,11 @@
 }
 .folio-footer blockquote { color: var(--muted); font-family: var(--han); }
 .folio-footer a { font-size: 13px; }
+
+@media (min-width: 1200px) {
+  #mbundo .folio-paper-highlight p { font-size: clamp(14px, 1.17vw, 15px); }
+  #cut-shortcut .folio-paper-highlight p { font-size: 15px; }
+}
 
 @media (max-width: 720px) {
   .folio-frame { width: 90%; }
