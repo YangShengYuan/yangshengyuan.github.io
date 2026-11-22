@@ -13,6 +13,8 @@ publications:
     links:
       - label: Preprint
         url: https://arxiv.org/abs/2611.02345
+      - label: Code
+        url: https://github.com/uw-qsl/MBUndo
     highlight:
       text: >-
         How can we clean up temporary quantum values without paying the cost of reversing the computation that produced them?
@@ -83,6 +85,12 @@ publications:
     links:
       - label: Paper
         url: https://yangshengyuan.github.io/file/QAT.pdf
+  - title: Formulating Uncomputation Beyond Classical Ancilla Use
+    authors: "Bonan Su and **Shengyuan Yang**."
+    venue: arXiv · 2026
+    links:
+      - label: Preprint
+        url: https://arxiv.org/abs/2611.18325
   - title: "Imprompt: A Language Framework for Prompt Programming"
     authors: "Chentian Wu, **Shengyuan Yang**, Adithya Murali."
     venue: arXiv · 2026
